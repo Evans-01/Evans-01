@@ -1,4 +1,4 @@
-!<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2F4-things-you-should-know-career-data-analytics-jonathan-osagie&psig=AOvVaw1fSE-fnv_8AIYqu96jY0I4&ust=1741708810051000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiWhpDx_4sDFQAAAAAdAAAAABAJ" alt="image">
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 #  Evans Blessing
 
 ## 💻 About Me
