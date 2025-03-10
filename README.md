@@ -15,8 +15,8 @@ I am a passionate **Data Analyst** and **Data Engineer** with expertise in **Pyt
 ## 📂 Projects
 ### 1️⃣ Web Scraping - **F1 Analysis**
    - Developed a web scraper to collect and analyze Formula 1 race data.
-   - Used Python libraries such as **Scrapy** and **Letsplot**.
-   - Performed statistical analysis on race results.
+   - Used Python libraries such as **Scrapy**, **Lets-Plot** and **Sqlite**.
+   - Cleaned, processed, and visualized data for insights on race results.
 
 ### 2️⃣ Gold Price Prediction - **Machine Learning**
    - Built a machine learning model to predict gold prices.
@@ -31,7 +31,7 @@ I am a passionate **Data Analyst** and **Data Engineer** with expertise in **Pyt
 ### 4️⃣ Weather Prediction
    - Developed a model to predict weather patterns.
    - Implemented **time-series analysis** and machine learning techniques.
-   - Used **Seaborn** and **Lets-Plot** for visualization.
+   - Used **Seaborn** and **Matplotlib** for visualization.
 ---
 ## 📫 Connect with Me
 - **LinkedIn:** [Evans Blessing](https://www.linkedin.com/in/evans-blessing-3a39b2227/)
