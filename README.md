@@ -1,15 +1,16 @@
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2F4-things-you-should-know-career-data-analytics-jonathan-osagie&psig=AOvVaw1fSE-fnv_8AIYqu96jY0I4&ust=1741708810051000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiWhpDx_4sDFQAAAAAdAAAAABAJ" alt="image">
 #  Evans Blessing
 
 ## 💻 About Me
 I am a passionate **Data Analyst** and **Data Engineer** with expertise in **Python**, **MySQL**, and **SQLite**. My work focuses on data-driven decision-making, statistical analysis, and predictive modeling. I have experience in **web scraping, machine learning, and data visualization**.
-
+---
 ## 🔧 Skills
 - **Programming:** Python
 - **Databases:** MySQL, SQLite
 - **Data Visualization:** Matplotlib, Seaborn, Lets-Plot
 - **Machine Learning:** Scikit-learn (sklearn)
 - **Data Manipulation:** Pandas, NumPy
-
+---
 ## 📂 Projects
 ### 1️⃣ Web Scraping - **F1 Analysis**
    - Developed a web scraper to collect and analyze Formula 1 race data.
@@ -30,7 +31,7 @@ I am a passionate **Data Analyst** and **Data Engineer** with expertise in **Pyt
    - Developed a model to predict weather patterns.
    - Implemented **time-series analysis** and machine learning techniques.
    - Used **Seaborn** and **Lets-Plot** for visualization.
-
+---
 ## 📫 Connect with Me
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/evans-blessing-3a39b2227/)
 - **Email:** [Your Email Address](evansbless1@gmail.com)
