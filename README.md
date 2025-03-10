@@ -35,4 +35,4 @@ I am a passionate **Data Analyst** and **Data Engineer** with expertise in **Pyt
 ---
 ## 📫 Connect with Me
 - **LinkedIn:** [Evans Blessing](https://www.linkedin.com/in/evans-blessing-3a39b2227/)
-- **Email:** [Your Email Address](evansbless1@gmail.com)
+- **Email:** **evansbless1@gmail.com**
