@@ -1,19 +1,36 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Evans Blessing HK</h1>
-<h3 align="center">I am A Data Analyst</h3>
-<img align ="right" alt="Img" width="400" scr="https://app.lottiefiles.com/animation/6108e693-ee32-437f-9955-3835f49f18b9?channel=web&source=public-animation&panel=embed">
-- 🔭 I currently working on [F1_Web Scraping](https://github.com/Evans-01/F1_Project.git)
+#  Evans Blessing
 
-- 📫 How to reach me **evansbless1@gmail.com**
+## 💻 About Me
+I am a passionate **Data Analyst** and **Data Engineer** with expertise in **Python**, **MySQL**, and **SQLite**. My work focuses on data-driven decision-making, statistical analysis, and predictive modeling. I have experience in **web scraping, machine learning, and data visualization**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/evans blessing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evans blessing" height="30" width="40" /></a>
-</p>
+## 🔧 Skills
+- **Programming:** Python
+- **Databases:** MySQL, SQLite
+- **Data Visualization:** Matplotlib, Seaborn, Lets-Plot
+- **Machine Learning:** Scikit-learn (sklearn)
+- **Data Manipulation:** Pandas, NumPy
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 📂 Projects
+### 1️⃣ Web Scraping - **F1 Analysis**
+   - Developed a web scraper to collect and analyze Formula 1 race data.
+   - Used Python libraries such as **BeautifulSoup** and **Requests**.
+   - Performed statistical analysis on race results.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evans-01&show_icons=true&locale=en" alt="evans-01" /></p>
+### 2️⃣ Gold Price Prediction - **Machine Learning**
+   - Built a machine learning model to predict gold prices.
+   - Utilized **Pandas**, **NumPy**, and **Scikit-learn**.
+   - Implemented regression models for accurate forecasting.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evans-01&" alt="evans-01" /></p>
+### 3️⃣ Waitrose Analysis
+   - Conducted an in-depth analysis of **Waitrose** sales and customer data.
+   - Cleaned, processed, and visualized data for insights.
+   - Used **Pandas**, **Matplotlib**, and **Seaborn** for EDA.
+
+### 4️⃣ Weather Prediction
+   - Developed a model to predict weather patterns.
+   - Implemented **time-series analysis** and machine learning techniques.
+   - Used **Seaborn** and **Lets-Plot** for visualization.
+
+## 📫 Connect with Me
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/evans-blessing-3a39b2227/)
+- **Email:** [Your Email Address](evansbless1@gmail.com)
