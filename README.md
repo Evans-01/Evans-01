@@ -15,7 +15,7 @@ I am a passionate **Data Analyst** and **Data Engineer** with expertise in **Pyt
 ## 📂 Projects
 ### 1️⃣ Web Scraping - **F1 Analysis**
    - Developed a web scraper to collect and analyze Formula 1 race data.
-   - Used Python libraries such as **BeautifulSoup** and **Requests**.
+   - Used Python libraries such as **Scrapy** and **Letsplot**.
    - Performed statistical analysis on race results.
 
 ### 2️⃣ Gold Price Prediction - **Machine Learning**
@@ -26,7 +26,7 @@ I am a passionate **Data Analyst** and **Data Engineer** with expertise in **Pyt
 ### 3️⃣ Waitrose Analysis
    - Conducted an in-depth analysis of **Waitrose** sales and customer data.
    - Cleaned, processed, and visualized data for insights.
-   - Used **Pandas**, **Matplotlib**, and **Seaborn** for EDA.
+   - Used **Pandas**, **Os** for EDA.
 
 ### 4️⃣ Weather Prediction
    - Developed a model to predict weather patterns.
