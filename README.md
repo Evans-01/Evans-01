@@ -34,5 +34,5 @@ I am a passionate **Data Analyst** and **Data Engineer** with expertise in **Pyt
    - Used **Seaborn** and **Lets-Plot** for visualization.
 ---
 ## 📫 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/evans-blessing-3a39b2227/)
+- **LinkedIn:** [Evans Blessing](https://www.linkedin.com/in/evans-blessing-3a39b2227/)
 - **Email:** [Your Email Address](evansbless1@gmail.com)
