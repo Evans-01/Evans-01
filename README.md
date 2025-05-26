@@ -3,7 +3,7 @@
 #  Evans Blessing
 
 ## 💻 About Me
-I am a passionate **Data Analyst** and **Data Engineer** with expertise in **Python**, **MySQL**, and **SQLite**. My work focuses on data-driven decision-making, statistical analysis, and predictive modeling. I have experience in **web scraping, machine learning, and data visualization**.
+I am a passionate **Data Analyst** and **Data Engineer** with expertise in **SQL**, **Python**, and **Business Intelligence**. My work focuses on data-driven decision-making, statistical analysis, and predictive modeling. I have experience in **web scraping, machine learning, and data visualization**.
 ---
 ## 🔧 Skills
 - **Programming:** Python
